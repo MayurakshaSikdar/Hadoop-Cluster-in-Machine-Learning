@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.13.0/flowchart.min.js" type="text/javascript"></script>
-
 <center>
 <ins>
 
